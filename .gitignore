@@ -13,3 +13,6 @@
 
 # shadow-cljs cache, port files
 /.shadow-cljs/
+/package-lock.json
+/.lsp
+/.calva

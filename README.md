@@ -1,3 +1,19 @@
+# starting this project 
+```
+lein new re-frame <project-name> +10x
+```
+then edit shadow-cljs.edn, add to :dependencies:
+```
+  [day8.re-frame/http-fx "0.2.3"]
+```
+
+
+#
+#
+#
+#
+#
+#
 Tutorial: https://www.youtube.com/watch?v=yVb8PS6a4Mk&t=2s
 
 # reframeexample
